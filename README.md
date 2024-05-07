@@ -6,6 +6,6 @@ Marker-Controlled Watershed Segmentation and ZS-thin method of detection and tra
 
 
 ### MCWS
-file include the example of MCWS by sar data
+Files include the example of MCWS by SAR data
 ### ZSthin
-file include the example of zsthin by RS data zs-thin include the function of zsthin
+Files include the example of ZSthin by RS data ***zs-thin*** include the function of zsthin
